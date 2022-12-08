@@ -7,7 +7,7 @@ bleach==3.1.4
 Brian2==2.3.0.1
 # Editable Git install with no remote (cerebellar-model==0.0.post0.dev1+g6ebcd14)
 -e c:\users\elias\surfdrive\documents\repositories\cerebellar_model\src
-certifi==2020.4.5.1
+certifi==2022.12.7
 cffi==1.14.0
 cfgv==3.1.0
 chardet==3.0.4
